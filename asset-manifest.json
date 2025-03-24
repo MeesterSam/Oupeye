@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Oupeye/static/css/main.222d9b7c.css",
+    "main.js": "/Oupeye/static/js/main.41313f35.js",
+    "index.html": "/Oupeye/index.html",
+    "main.222d9b7c.css.map": "/Oupeye/static/css/main.222d9b7c.css.map",
+    "main.41313f35.js.map": "/Oupeye/static/js/main.41313f35.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.222d9b7c.css",
+    "static/js/main.41313f35.js"
+  ]
+}
